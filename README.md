@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18020
-Fork on GitHub
-5296
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Radha Pachouri</h1>
 <h3 align="center">Software Developer with a passion for Data Structures & Algorithms and strong problem-solving skills. My current tech stack includes Spring Boot, JAVA, and Amazon Web Services (AWS).As an enthusiastic team player, I am always eager to learn new technologies and collaborate with others to solve complex problems. With my creative problem-solving skills.</h3>
 
