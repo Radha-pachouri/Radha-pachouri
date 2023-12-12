@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radha-pachouri&label=Profile%20views&color=0e75b6&style=flat" alt="radha-pachouri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radha-pachouri" alt="radha-pachouri" /></a> </p>
 
 - 💬 Ask me about **Java, Data Structures and Algorithms, OOP, Spring Boot, MySQL**
 
