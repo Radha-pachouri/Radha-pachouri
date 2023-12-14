@@ -42,7 +42,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/radha-pachouri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharmendrashekhawat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/radha-pachouri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radhapachouri" height="30" width="40" /></a>
 
 <a href="https://www.instagram.com/radh_apachouri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="radh_apachouri" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/rpachouri2345671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rpachouri2345671" height="30" width="40" /></a>
